@@ -1,4 +1,4 @@
-let anniversary = '2024-08-30'; // Убедитесь, что месяц с нулем
+let anniversary = '2024-08-30'; 
 let dateVal = Date.parse(anniversary); // Используйте Date.parse
 let today = new Date();
 let now = today.getTime();

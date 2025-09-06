@@ -5,9 +5,9 @@
 
 :root {
     --primary: #fff;
-    --bg-envelope-color: #f5edd1;
-    --envelope-tab: #ecdeb8;
-    --envelope-cover: #e6cfa7;
+    --bg-envelope-color: #aeaeae;
+    --envelope-tab: #aaaaaa;
+    --envelope-cover: #9a9a9a;
     --shadow-color: rgba(0, 0, 0, 0.2);
     --txt-color: #444;
     --heart-color: rgb(252, 8, 231);
@@ -91,7 +91,7 @@
     right: 20%;
     bottom: 0;
     width: 60%;
-    height: 98%;
+    height: 85%;
     background: var(--primary);
     text-align: center;
     transition: all 1s ease-in-out;
