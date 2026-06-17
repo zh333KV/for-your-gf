@@ -4,7 +4,7 @@ A touching, interactive frontend website designed as a special gift for your sig
 
 Want to surprise your favorite person? You can easily use this repository as a template, customize it with your own photos and music, and launch your own version!
 
-🔗 **Live Demo:** [[Check out the live website]([https://github.io](/for-your-gf/))]
+🔗 **Live Demo:** [[Check out the live website](https://zh333kv.github.io/for-your-gf/)]
 
 ---
 
